@@ -1,1 +1,0 @@
-This folder contains Leetcode 1768 - Merge Strings Alternately
